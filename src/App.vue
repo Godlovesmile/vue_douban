@@ -21,6 +21,7 @@ html {
 #app {
   max-width: 41.4rem;
   margin: 0 auto;
+  // background: red;
 }
 
 h2 {
